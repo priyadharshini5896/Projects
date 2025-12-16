@@ -6,4 +6,4 @@ single page CV using Html
 2. Open `project1.html` in a browser
 
 ## project url
-https://priyadharshini5896.github.io/Projects/project1.html
+https://priyadharshini5896.github.io/Projects/
