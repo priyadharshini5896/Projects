@@ -5,5 +5,5 @@ single page CV using Html
 1. Download or clone the repository
 2. Open `project1.html` in a browser
 
-## project page url
+## project url
 https://priyadharshini5896.github.io/Projects/project1.html
